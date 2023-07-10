@@ -6,16 +6,15 @@ Dribble clone but for programmers. Using Google Auth, Cloudinary, JWT, GraphQL, 
 
 ## How it looks?
 
+![Screenshot 2023-07-10 234527](https://github.com/fvdime/grafbase-dribbble-clone/assets/73942727/82f7d3c7-9242-4855-8ce7-8f60acf1d40d)
+
+![Screenshot 2023-07-10 234540](https://github.com/fvdime/grafbase-dribbble-clone/assets/73942727/242e2c73-9dd2-4001-90f6-734e4f2dddc8)
+
 
 
 ## Credits
 
 I followed JavaScript Mastery's tutorial for this project please check out his channel! --> https://youtu.be/986hztrfaSQ
-
-![Screenshot 2023-07-10 234527](https://github.com/fvdime/grafbase-dribbble-clone/assets/73942727/82f7d3c7-9242-4855-8ce7-8f60acf1d40d)
-
-![Screenshot 2023-07-10 234540](https://github.com/fvdime/grafbase-dribbble-clone/assets/73942727/242e2c73-9dd2-4001-90f6-734e4f2dddc8)
-
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
